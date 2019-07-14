@@ -19,7 +19,7 @@ class App extends React.Component {
       <div className="App">
         <CardList name="Test"/>
         {this.state.monsters.map(monster => (
-          <h1> {monster.name} </h1>
+          <h1 key={monster.id}> {monster.name} </h1>
         ))}
       </div>
     );
