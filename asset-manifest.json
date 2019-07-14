@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monster-workshop/static/css/main.d09b064e.chunk.css",
+    "main.js": "/monster-workshop/static/js/main.d1e461c0.chunk.js",
+    "main.js.map": "/monster-workshop/static/js/main.d1e461c0.chunk.js.map",
+    "runtime~main.js": "/monster-workshop/static/js/runtime~main.fa3ebfd6.js",
+    "runtime~main.js.map": "/monster-workshop/static/js/runtime~main.fa3ebfd6.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/monster-workshop/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/monster-workshop/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/monster-workshop/index.html",
+    "precache-manifest.6fbdc2edad11a5a90be892d85f210d6d.js": "/monster-workshop/precache-manifest.6fbdc2edad11a5a90be892d85f210d6d.js",
+    "service-worker.js": "/monster-workshop/service-worker.js",
+    "static/css/main.d09b064e.chunk.css.map": "/monster-workshop/static/css/main.d09b064e.chunk.css.map"
+  }
+}
